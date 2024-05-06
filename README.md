@@ -1,2 +1,2 @@
-# Willingness_open_ends
-Code for the paper "To share or not to share -- Understanding individuals' willingness to share biomarkers, sensor data, and medical records"
+# To share or not to share -- Understanding individuals' willingness to share biomarkers, sensor data, and medical records
+Code for the paper "To share or not to share -- Understanding individuals' willingness to share biomarkers, sensor data, and medical records" by Ruben L. Bach, Henning Silber, Frederic Gerdon, Florian Keusch, Matthias Schonlau, and Jette Schröder. Forthcoming in "Information, Communication, and Society"
